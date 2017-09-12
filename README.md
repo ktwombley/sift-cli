@@ -25,9 +25,9 @@ Options:
 
 Open issues over at the main [SIFT Repository](https://github.com/sans-dfir/sift/issues), prefix all issues with `[CLI]`
 
-## Prerequisites
+## Supported Distributions
 
-1. Ubuntu 16.04
+Ubuntu 16.04 (Xenial)
 
 ## Installation
 
